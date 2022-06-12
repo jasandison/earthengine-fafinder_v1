@@ -1,7 +1,7 @@
 SANDISON, 2021: FAFINDER - First Ascent Finder, Version 1 
 
 OVERVIEW:
-This script generates locations of potential rock crags for either boulder or sport climbing that
+This Google Earth Engine script generates locations of potential rock crags for either boulder or sport climbing that
 are unexplored and unestablished. Users who find locations of interest can explore these potential rock crags
 in person and at their own risk, where hopefully first ascents of undiscovered rock walls can take place.
 Using publicly available datasets, it outlines locations where both high slope and rock formations exist 
